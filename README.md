@@ -1,5 +1,13 @@
 `#html` `#css` `#js` `#dom` `#JSON` `#HTTP` `#API` `#Bootstrap` `#master-in-software-development`
 
+#  Resources
+  http://localhost:3000/posts
+  http://localhost:3000/users
+  http://localhost:3000/comments
+
+  Home
+  http://localhost:3000
+
 # Blog with API <!-- omit in toc -->
 
 <p>
