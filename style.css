@@ -1,0 +1,11 @@
+.title-post {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+.title-post:hover {
+    color: greenyellow;
+
+}
